@@ -21,4 +21,4 @@ new Typewriter(txtAnim, {
 .pauseFor(1000)
 .deleteChars(5)
 .typeString('<span style="color: #F963E0;"> JavaScript</span> !')
-.start()
+.start();
